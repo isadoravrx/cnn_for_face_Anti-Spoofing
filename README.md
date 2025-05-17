@@ -57,3 +57,6 @@ cnn_for_face_Anti-Spoofing/
 ├── .gitignore                    # Arquivos e pastas ignoradas pelo Git
 └── README.md                     # Este arquivo
 ```
+
+
+Referencias: https://github.com/ZitongYu/CDCN?tab=readme-ov-file
