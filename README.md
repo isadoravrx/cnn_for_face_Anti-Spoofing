@@ -26,7 +26,7 @@ Acesse o link abaixo para baixar o dataset:
 
 [Dataset reduzido](https://universidadecatolica-my.sharepoint.com/:f:/g/personal/isadora_00000844511_unicap_br/EhtSKCrkC_lBlCH7qDSSqskBhbLPl6JKEYuKWUEYA4jMaw?e=sSHCnR)
 
-Após o download, extraia a pasta real_vs_fake e coloque dentro do diretório data/ na raiz do projeto:
+Após o download, extraia a pasta real_vs_fake e coloque dentro do diretório data/ na raiz do projeto (Crie a pasta se ela não existir):
 
 ```bash
 /data
@@ -42,11 +42,13 @@ Após o download, extraia a pasta real_vs_fake e coloque dentro do diretório da
 
 ### 4. Executar o notebook
 
-Com tudo pronto, execute o notebook principal:
+Com tudo pronto, execute as células do notebook:
 
 experiment.ipynb
 
-### Estrutura esperada do projeto
+
+
+### Estrutura do projeto
 
 ```bash
 cnn_for_face_Anti-Spoofing/
