@@ -8,8 +8,8 @@ Recomenda-se utilizar `venv` ou `conda`:
 
 #### Usando venv
 ```bash
-python -m venv venv
-source venv/bin/activate 
+python -m venv myenv
+source myenv/bin/activate 
 ```
 
 ### 2. Instalar as dependências
@@ -24,7 +24,7 @@ pip install -r requirements.txt
 
 Acesse o link abaixo para baixar o dataset:
 
-[Dataset reduzido](https://universidadecatolica-my.sharepoint.com/:f:/g/personal/isadora_00000844511_unicap_br/EhtSKCrkC_lBlCH7qDSSqskBhbLPl6JKEYuKWUEYA4jMaw?e=sSHCnR)
+[ 🔗 Dataset reduzido](https://universidadecatolica-my.sharepoint.com/:f:/g/personal/isadora_00000844511_unicap_br/EhtSKCrkC_lBlCH7qDSSqskBhbLPl6JKEYuKWUEYA4jMaw?e=sSHCnR)
 
 Após o download, extraia a pasta real_vs_fake e coloque dentro do diretório data/ na raiz do projeto (Crie a pasta se ela não existir):
 
