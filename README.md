@@ -68,5 +68,5 @@ cnn_for_face_Anti-Spoofing/
 Referencias: 
   - [🔗 Github do artigo](https://github.com/ZitongYu/CDCN?tab=readme-ov-file)
   - [🔗 Dataset reduzido](https://universidadecatolica-my.sharepoint.com/:f:/g/personal/isadora_00000844511_unicap_br/EhtSKCrkC_lBlCH7qDSSqskBhbLPl6JKEYuKWUEYA4jMaw?e=sSHCnR)
-  - [🔗 Dataset Original](https://www.kaggle.com/code/abdalrhmanmorsi/real-vs-fake-face-cnn-model?select=real_vs_fake)
+  - [🔗 Dataset Original](https://www.kaggle.com/datasets/xhlulu/140k-real-and-fake-faces)
   - [🔗 Artigo](https://arxiv.org/pdf/2003.04092)
